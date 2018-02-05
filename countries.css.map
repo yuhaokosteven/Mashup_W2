@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EAIR,MAAM,EAAC,KAAK;EAHZ,iBAAM;IACJ,KAAK,EAAE,IAAI",
+"sources": ["output.scss"],
+"names": [],
+"file": "countries.css"
+}
